@@ -25,7 +25,7 @@ export default async function Home() {
 
       <main className="flex-grow max-w-6xl mx-auto w-full p-6">
         <section className="bg-gray-100 rounded-lg p-10 text-center mb-10">
-          <h1 className="text-4xl font-extrabold mb-4">Arte en Cerámica</h1>
+          <h1 className="text-4xl font-extrabold mb-4">Arte en Cerámica Puno</h1>
           <p className="text-lg text-gray-600 mb-6">Textos persuasivos aquí. Encuentra los mejores diseños para tu hogar.</p>
           
           {/* 3. Inyectamos de forma segura el dato dinámico usando llaves {} */}
